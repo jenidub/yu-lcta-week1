@@ -5,6 +5,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/MathApplication/pom.xml" />
+        <option value="$PROJECT_DIR$/BasicCalculator/pom.xml" />
+        <option value="$PROJECT_DIR$/MathApp/pom.xml" />
+        <option value="$PROJECT_DIR$/InputApp/pom.xml" />
       </list>
     </option>
   </component>
